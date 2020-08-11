@@ -1,0 +1,21 @@
+.imgCarousel {
+    width: inherit;
+}
+
+.description-item{
+    font-size: 1.1em;
+    
+}
+
+.brand-item{
+    font-size: 1.2em;
+}
+
+.manufacturer-item{
+    font-size: 1.2em;
+}
+
+.button-group-item{
+    margin-top: 1.5em;
+    float: right;
+}
